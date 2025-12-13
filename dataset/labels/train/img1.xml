@@ -1,0 +1,26 @@
+ad <annotation>
+	<folder>train</folder>
+	<filename>img1.jpg</filename>
+	<path>C:\projects\mcs\dataset\images\train\img1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>323</ymin>
+			<xmax>754</xmax>
+			<ymax>1005</ymax>
+		</bndbox>
+	</object>
+</annotation>
